@@ -52,9 +52,9 @@
 </activation>
 <properties>
 <!-- Optional URL to server. Default value is http://localhost:9000 -->
-<sonar.host.url>http://18.116.71.152:9000/</sonar.host.url>
+<sonar.host.url>http://3.129.148.60:9000/</sonar.host.url>
 <sonar.projectKey>test</sonar.projectKey>
-<sonar.login>squ_2a1fa79c189b6c7146fc40fdb4833042b388d3b9</sonar.login>
+<sonar.login>sqa_97f5430a81b466bd08c35b4088fe00f09e65c57e</sonar.login>
  <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
  <sonar.coverage.jacoco.xmlReportPaths>${project.build.directory}\jacoco-it.exec</sonar.coverage.jacoco.xmlReportPaths>
 
